@@ -6,6 +6,7 @@ namespace ProjetoTesteGitRep {
             Console.WriteLine("Hello World!");
             Console.WriteLine("123 testando");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("como vc está hoje?");
 
 
             Console.ReadLine();
